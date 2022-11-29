@@ -1,0 +1,31 @@
+
+
+html {
+    width: 100vw;
+    height: 100vh;
+}
+
+body {
+    height: 100%;
+    padding-top: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    background-image: url('https://th.bing.com/th/id/R.78b6daba7eab1b4ed2cf11d8b7a31e48?rik=o%2fFaHkiBmH1tgQ&pid=ImgRaw&r=0');
+}
+
+
+
+.form-login {
+    padding-top: 10rem;
+    max-height: 15rem;
+    max-width: 30rem;
+    margin: 0 auto;
+    color: #d7c15bd9;
+}
+
+.textlogin.form-control {
+    margin: -3;
+    border: -3;
+    color: #c98122;
+}
